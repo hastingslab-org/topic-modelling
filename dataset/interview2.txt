@@ -1,0 +1,434 @@
+Well, hello, this is Eric Topol with Ground Truths, and I am really thrilled to have with me Katie Karikó, who I think everyone knows, won the Nobel Prize with Drew Weissman in 2023.
+And she has written a sensational book.
+It's called Breaking Through.
+I love that title because it's a play on words of breakthrough and breaking through.
+And we have a lot to talk about, Katie, so welcome.
+Thank you very much inviting me.
+Yes, well I'd like to start off as you did in the book with your background in Hungary where of course you started with a tough background in a one-room house without running water and you never had really exposures to scientists and somehow or other you became interested in science and you attributed some of these things like
+Your biology teacher Mr. Toth and the book Stress of Life.
+Could you tell us a little bit more what stimulated you in a career of science?
+I have to say that every child is interested in
+understanding the nature around them and so I was surrounded with nature because we had big garden we had animals around and it was an exciting thing and and you know the children ask questions and if they try to find answer and teachers or parents might give the answer but definitely the school was also you know even elementary school was very stimulating teachers
+chemistry teacher figure out how we can make crystals and you know I was so excited to have my own crystals and things like that and in high school also that you know the the teachers were so engaging and not like they try to put all of the information into your brain but they encourage you to think yourself and so that's all contributed and
+I think that most of the child, you know, in the first, I don't know, six, seven years of their life, that how they can see their parents behaving, their friends, the school, classmates, and they shape that what kind of people they will be at the end.
+And the rest of it, you know, is refining.
+Right, right.
+Well, one of the things I loved that you brought up in the book was how much you liked the TV show Columbo.
+That's one of my favorite TV shows of all time.
+And one more thing, one more thing.
+Can you talk a little bit about Columbo?
+I mean, because in some ways, you were like the Peter Falk of MR&A, you know, in terms of one more thing.
+Yes, so, you know, I realized also that we as researchers, you know, we are not called searchers, you know, we re-searchers, so we are repeating, repeating things and so it was just,
+You know, of course, everybody knows who committed the crime in Colombo because this is how it starts.
+You don't have to figure out, but it seems always that, you know, things in a different direction, you know, you would lead and but all the little clues.
+And so some of my colleagues said that, you know, they also in a
+As a physician, they have this tunnel vision so the patient comes and they can figure out probably, you know, from some clues that okay, this is the disease and they get back the lab results and others and then they realize that one or two things is not fitting but they always, you know, so strongly believe that their first instinct and
+So, but I told them to focus on those which will not fit because that will lead to the real perpetrator in case of Colombo.
+And so it is, you know, I like the simplicity, you know, it's not
+I know that what we are doing, this research, is very overcomplicated, but we can break down very simple questions, yes or no, and then repeating things.
+And many experiments when I did, like, you know, one was the experiments, really, the question and the nine of them was like, you know, just controls.
+Always, I have to have a control for that, control for that.
+And since I work most of the time, you know, with my own hands, myself, so I had to make sure that I,
+think through that what will be the experimental outcome and then think about that do I have a control for that so that many times I in my brain I before I perform the experiment I in my brain I predicted that what will be the of course
+You know, you never get the outcome what you expect, but at least you have the control that you can exclude a couple of things.
+And so this is how I function.
+It's usually in the end of the 20th century, 21st century, people not work like I did alone most of the time.
+No, actually, how you describe it in the book was just so extraordinary.
+And it really was in keeping with this
+relentless interrogation.
+And that's what I want to get into is particularly the time when you came to the United States in 1985 and the labs that you worked in predominantly in Philadelphia through that period before leaving Penn to go on to BioNTech.
+So you first kind of beached in at Temple University
+with a monster, at least as you portrayed him in the book.
+I mean, it was nice that he picked you up at the airport, you and your family.
+This is, how do you say his name?
+Suhadolnik?
+Suhadolnik, Suhadolnik.
+Okay.
+But he not only was a lab, you know, kind of infested with cockroaches, but also when you, after working there for a number of years, a few years, you then
+I had gotten an offer to go to Johns Hopkins and when you informed him about that, he threatened and did everything he could to ruin your career and get you deported.
+I mean, this was just awful.
+How did you get through that?
+You know, as I mentioned later on, I went back and gave a lecture there.
+And I have to say that I always put positivity, you know, in forefront.
+So I learned a lot from him and I, you know, he invited me to America.
+So I was always very grateful and he was kind and we did very well.
+And we did a lot of publication, you know, in one issue of Biochemistry, we had three papers.
+and two of them I was the first author so I worked very hard and and so he liked that and he wanted me to stay there and and so you know I just learned that in from this Shaya book that you know this is what is given and then what I can do I cannot change him I cannot change the situation how I can
+get out from it, and that's what I focused on.
+So I am not bitter about him, you know, I liked him.
+And the same other people, you know, when I get an award, I usually thanks to all of these people who try to make my life miserable.
+They made me work harder.
+Well, but you were very kind, like you said, when you went back to Temple many years later to give the lecture, because what he did to you,
+I mean, he was so vindictive about you potentially leaving his lab, which he demanded that he be called the boss.
+And he was going to basically, he ruined the Johns Hopkins job.
+He called them.
+I mean, and you were so nice and kind when you went back to give the lecture without, you know, saying a negative word about him.
+So I give you credit.
+You weren't at the, you know, when somebody goes low, you went high, right?
+Which is nice.
+Yeah.
+And it is important, you know, which I learned from the Shaya book also, that you don't carry any grudge against anybody because it will poison you.
+And as, you know, Shaya also said that when you are very frustrated and very upset, the quickest way you can think about how you can release the stress is revenge.
+And he said, don't do that.
+It escalates, it hits you back.
+You have to think about how you can be grateful for the same person you were just ready to
+Oh, yeah, I was going to get to that.
+So then, you know, after a short stint at the Uniform University Health Science, where
+You had to drive three hours from Philadelphia to go there and you would sleep on the floor.
+And I mean, it's just, I have to say, Katie, if I was driving three hours, all I'd be thinking about is how desperate situation I was put in by the prior PI you work with.
+Anyway, you work there.
+And then finally, you got a job with my friend,
+Elliott Barnathan, a cardiologist at University of Pennsylvania.
+So here you are, you're very interested in mRNA, and you hook up with Elliott, who's interested in plasminogen activators, and you work in his lab.
+And, you know, it's quite a story, where one of the students in his lab, David Langer, ratted on you for being blunt about the experiments getting screwed up.
+And then later, you wind up working, you know, in his lab, but
+Tell me a bit about the times with Elliot because he's a very gracious, very, I think he was very supportive of your efforts and you got him stimulated about the potential for mRNA, it seems like.
+Yes, so I was desperate to be away from my family at Bethesda and try to get back.
+And, you know, every day I sent out several applications.
+This was in 1989.
+So, you know, that you had to send letters.
+And then, you know, I call up usually the
+Secretary
+Come and bring your notebook.
+He wanted to know what kind of experiment I am doing and he opened when I came a couple of days later and you know pull up a northern blot and he said you have done that?
+I said yes I did.
+Okay.
+He said, okay, you are hired.
+And so that, because Elliot is just a couple of days younger than me.
+So I convinced him that we should, we should do kind of mRNA research.
+And, and he agreed.
+And we did the several experiments and he, he helped me, you know, to get all of these,
+Experiments ongoing and so it was very exciting time and I listen you know Elliot was there in many awards ceremony including the Nobel Prize he was my guest because I was very grateful to him because I have to say that he he tried to protect me and he he get trouble for that because you know in the
+Do you think the reason, in part, that he went to Centacore, a biotech company who I work with quite extensively, was because he stood up for you?
+Katalin mentioned to the chairman that he's waiting for whether he will be tenured because he has a job offer from, you know, with the Rio Pro, what he was doing there, you know, in the lab and, and testing out and, and the chairman told him that, take that job.
+Yeah, well, you know, that's interesting, because I know Judy Swain very well.
+She did everything she could to hurt your career.
+She demoted you, actually, she wanted you to leave, but you wound up taking a demotion.
+Also, Bill Kelly, who I know well, he was the dean and CEO of the whole pen.
+Did he ever get any direct involvement with, because, you know, much later on, he was advocating for your recognition.
+But during that time, he could have told Judy Swain to stop this.
+But did he ever get involved?
+Do you know?
+You know, I was very low level of nobody, so he would not, you know... It was interesting, we were hired on the same day in 1989, August 1st, and I met him, Bill Kelly, when the new faculty was hired, and I was so happy because I... And my first project in Hungary was Lesznyan syndrome, and I know that he discovered the gene.
+Yes, yes.
+And I was, you know, looking up to him very much always.
+Well, you said in the book, you're over the moon, and I have to say, you know, I worked with him, my first job was at the University of Michigan.
+And I worked with him for six years before he left to go to Penn.
+And we've been friends, you know, all these years.
+But, you know, what happened with Judy Swain, as I read in the book, I got all, it bristled, I, you know, I really was upset to read about that.
+Anyway, somehow you stayed on, Elliot moved.
+By the way, during that time with Elliot, you were able to get mRNA to make your kinase plasminogen activator, UPA, and that was a step in the right direction.
+But before we leave Elliot, if you had stayed there, if he had gotten tenure, do you think you would have ultimately together made the discovery that you did with Drew Weissman?
+I couldn't be tenured because it is a clinical department and I had a PhD and nobody at clinical department can be but I could have been research associate professor if I can get grant and you know in 1993 I already had a submitted grant on circular RNA when these people in these days they say that oh that's a novelty oh
+Oh, in 94, 95, I had several grants on circular RNA I submitted for therapeutic purposes.
+So I, you know, and Elliot helped me with English and the computer, everything what he could.
+And, but it is important that he was not immunologist and I needed a discovery.
+I, when I work with him, I did not realize the mRNA was inflammatory.
+Right, right, exactly.
+We're going to get to that in a minute.
+Now, after you, after Elliot left, then you needed someone else to support you and you wound up with, as I mentioned earlier, David Langer, a neurosurgeon who you previously knew, and he also stood up for you, right?
+Yes, yes.
+So at the beginning, you know, every lab, when you have a medical student, they are kind of, you know, over.
+Yes, they know everything.
+And, you know, and one day he just told me that
+Kati, you know, I will want to learn everything what you know, and I will know everything you know.
+I said, oh, by that time, you know, while you are learning, I learned so much more, you never catch me.
+You know, that always I had to put him back.
+And so, but kind of, you know, he liked that how I worked, I concentrate, I didn't chit-chat.
+And then he was just, you know,
+keep coming back when I was working even with Elliot and he advanced from medical student to residency and so on and then when he learned that I have no job because Elliot is leaving then he went to Eugene Flam the chairman of neurosurgery and he convinced him that yeah neurosurgery needs a molecular biologist that's what he was arguing and
+Thanks to David and the chairman, Eugene Flem.
+Then for 17 years, I had a laboratory and I had financial support.
+Not much.
+Yeah, I mean, that was great.
+But again, you were not getting, you know, any real support from the university.
+And then all of a sudden, you show up one day and Sean has all your lab, everything that you worked on thrown in the hallway.
+I mean, that's just incredible story, right?
+At any rate, you then wound up, because you were basically hawking mRNA as a path of science that's going to be important.
+By the way, my favorite quote in the book, Katie, the history of science, it turns out, is filled with stories of very smart people laughing at good ideas.
+I just love that quote.
+And it kind of exemplifies, you know, your career and your success, but you were steadfast.
+And
+You ran in, of course, the famous story to Drew Weissman at the Xerox machine, and you were hawking, you know, trying to ask anybody to believe it, as you called it later, the mRNA believers club, which only a handful of people in the world ever got there.
+And here you have, you take on something that, you know, obviously 1960 in your lifetime, early in your lifetime, it was discovered, but everyone knew it was unstable, very difficult to work with, very challenging.
+Of course, you realize that could be beneficial.
+But you hooked up with Drew, the immunologist that you mentioned.
+And I didn't know, by the way, he had type 1 diabetes.
+I learned that from your book.
+And the both of you worked so hard.
+And I mean, it's just really incredible.
+But while you were at Penn, the famous or infamous Jesse Gelsinger case and his death occurred.
+And he had the cytokine release syndrome.
+And you learned from that, right?
+Yes, by that time, we also could see that the RNA could be inflammatory, but in his case, of course, because the virus was causing it or what certain condition caused that.
+But I have to say that so people work at gene therapy at Penn and mostly of
+viral programs and when I mentioned I tried to make gene therapy with mRNA of course you know everybody felt sorry for me poor copy because I hate RNA it's always degraded but I have to say the degradation is coming mostly because the laboratory molecular biology laboratory they use plasmid
+and when they isolated plasmid like the QIAGEN kit, they start with the RNAs.
+They add RNAs because you have to eliminate the bacterial RNA.
+And they contaminate the whole laboratory, the refrigerator door, the gel apparatus, everybody's RNAs.
+And so that's what, you know, extra problem with working with RNA.
+So I could make RNA and so it was working and so kind of
+you know, try to express that.
+And I did, I made a lot of RNA for people, probably they still have in their freezer, never tested because I was a pusher, you know, that.
+Yeah.
+Yeah.
+Well, what was fascinating, of course, is you had already learned in mice about this inflammation from putting mRNA in vivo.
+And then you made the remarkable discovery
+which was the paper in Immunity that had been rejected by Nature and many other papers, even though you had been told, you know, if you could get a paper in Nature, maybe that could help your career, right?
+And, you know, back in 2021, the journal Immunity, a very highly regarded self-pressed journal, they asked me to comment on your discovery, and I wrote, you may have seen it.
+Of course, several people wrote, Tony Fauci and others, but what I wrote was what began
+began as a replacement for a uridine base.
+He squashed an inflammatory response in mice, evolved into the basis for a broad therapeutic platform to fight both communicable and non-communicable diseases in people.
+So this discovery that you made in that classic 2005 paper, which is the most important paper ever published in the journal Immunity,
+was the toll-like receptor was mediating the inflammation.
+And if you change the uridine to pseudo-uridine, you could essentially blunt or block the inflammation.
+This was a seminal discovery that opened up mRNA as, but not just for COVID, of course, but for so many pathogens.
+And as we'll talk about when we wrap up about all these other things.
+So when you got, when you did this paper and Drew said, you know, when it's published,
+The phones are going to be ringing off the hook.
+And no one even acknowledged the paper, right?
+I mean, no one realized how this was one of the most important discoveries in the history of biomedicine, right?
+Yes, especially knowing that Drew is not a person who is exaggerating things.
+Drew is very modest and would not say such things.
+I am more like, maybe this happened, but he is not like that.
+I got one invitation to go to the Rockefeller University in a meeting and then I went to Japan.
+from 2005 and it was 2006, both of them.
+That was invitation and nothing happened in 2007 and 2008 and 2009.
+Yeah, but those meetings that you went to, they were kind of obscure, like, you know, microcosm groups.
+I mean, they were relevant to your work, but they didn't realize this is a big deal.
+I mean, this is like a
+a world-changing type of finding because now you could deliver things in cells.
+Now, of course, you worked on this for three decades and the people that think that you can do a flash in the pan in science.
+But at the same time, nanoparticles separately were being pursued.
+How important were the nanoparticles to make for the package
+for the ultimate success.
+When COVID hit in late 2019, and now you had been working at BioNTech, how would you rate the importance of the nanoparticles in the story?
+For the vaccine definitely the is important because you know everybody asked the mRNA if not immunogenic where do you have the adjuvant where is the adjuvant and then lipid nanoparticle contains an ionizable lipid which was the adjuvant and why it is important that not the mRNA was inducing
+the response, because the mRNA-induced interferon, and if you have interferon, then follicular T helper cells is not formed, and then you get a very low amount of antibodies.
+But if you do not induce interferon, but you induce IS-6 and other cytokines, you know, it's beneficial to have high level of antibodies.
+So that's what the ionizable lipid
+was causing and that's the argument in the lipid nanoparticle.
+Yes, I always emphasize that it was very, it is very important.
+And of course, when we use for the particle that was polarization, then it did not contain ionizable lipid.
+Right, right.
+And I think that's where there's a misconception because, because of the Nobel Prize recognition last year,
+A lot of people think, well, that's all tied only to the COVID vaccine.
+But actually, no, your discovery was much bigger than that.
+And it was applied for the COVID vaccine, you know, of course, with the nanoparticle package, but yours is, as we'll get to in a moment, you know, much, much bigger now.
+So we you have then spent, you left Penn, that was in 2000.
+So Dean,
+13 and then you spent several years in Mainz, Germany working with the folks at BioNTech and you really enjoyed that and they appreciated you then as opposed to what you dealt with at Penn where you know it was just that you kept hearing about the dollars per net square footage and all these ridiculous things and it's just extraordinary to go back there but now I just want to mention about your own gene transfer your daughter
+Your daughter is a two-time gold medal Olympiad in rowing, which is incredible.
+So she didn't go down the path of science, but she also, you know, became a world leader in a field.
+Is that transmitted on a particular chromosome in the family?
+I think that she just could see that, you know, you have to focus on something and then you give up many things and you focus and then achieve.
+And then you get the new goal, set up a new goal.
+And I mean, she get some articulated at Penn, so she get a master in science and
+Later in UCLA, she got an MBA degree.
+But 10 years, she was like, you know, for me, it's a very boring thing, just, you know, rowing, going backwards.
+I said, isn't that boring every day?
+And she said, no, mom, you know, it is fun.
+Every practice is different.
+I enjoy it.
+The minute I don't enjoy it, I will stop doing it.
+Yeah, well, it's an amazing story about Susan and of course, you know, the expansion of your family with a grandchild and everything else that you wrote about in the book.
+So now let's go to this story, the big story here, which is mRNA.
+Now you can get into cells, you can deliver just about anything.
+So now it can be used for genome editing.
+It can be used for all these different pathogens as vaccines.
+and including not just pathogens, but potentially obviously cancer to rev up the immune system, neurodegenerative disease to prevent these processes, potentially even preventing cancer in a few years ahead.
+So how do you see this platform evolving in the years ahead?
+You already have seen many vaccines getting approval or under intense study.
+for Pathogens.
+Katalin Karikó
+experts on cardiology and other fields and allergies also there is also to tolerate allergies and so that there's so many fields the scientists will be figuring out there that what what is useful for the mRNA and they can just order now and or create their own RNA and test it out
+You know, it's actually pretty amazing because I don't know where we'd be right now if you had not been pushing this against all adversity.
+I mean, just being suppressed and being told, you know, put your stuff out in the hallway or be being thrown out of the university and not being able to get any grants, which is amazing throughout all this time, not being able to get grants.
+It tells a big story.
+And that's why the book is so sensational.
+because it takes, it's obviously your autobiography, but it, it tells a story that is so important.
+It goes back to that memorable quote that I mentioned.
+I also want to, you know, you, you wrap up the book with your message of your, of your life story.
+And I do want to read a bit of that and then get your reaction.
+Okay.
+My first message is this, we can do better.
+I believe we can improve how science is done at academic research institutions.
+For one thing, we might create a clearer distinction between markers of prestige, titles, publication records, number of citations, grant funding, committee appointments, etiquette, dollars per net square footage, and those of quality science.
+Too often we conflate the two and if there's one, as if there's one in the same,
+But a person isn't a better scientist because she publishes more or first.
+Perhaps she's holding back from publication because she wants to be absolutely certain of her data.
+Similarly, the number of citations might have little to do with the value of the paper and more to do with external events.
+When Drew and I published our landmark immunity paper, and indeed it was, it barely got any notice.
+It took a pandemic.
+for the world to understand what we've done and why it matters.
+I mean, that's profound, Katie, profound.
+I have to tell you that what I could see is the science progress.
+Every scientist starts with understanding something to have the word and some, but somehow
+and they publish because they have something to say, but somehow it's shifted.
+Now we want more money, more people would come.
+Those people had to get publication because otherwise they cannot graduate, they need first outdoor paper.
+They publish even when it is not finished or nothing to say.
+And then somehow the focus is promotion, you are advancing your position and the tool is
+you know, doing the experiments.
+And if you see, you know, I was demoted, I was pushed out.
+So if I, my goal would have been, you know, to, you know, to see that I am advancing, then it was, you know, I would give up because that's what the problem is.
+So that focus is going away from
+from the original thing that we want to understand the science.
+Because if you want to understand the science, you are even happy when you can see a publication doing half of what you have done already.
+Because you say, I wanted to understand, oh, here is a paper, they did a similar thing I did, okay.
+But the people think, oh my God, my top-tier journal paper is out and my promotion is out because they discovered and they published before me.
+So that's the problem.
+Well, I mean, if I had made a list of all the adversity that you faced from, you know, growing up in the Russian communist run Hungary to, you know, coming to the U.S., not even knowing the language and also, you know, have all the sacrifices you made along the way with your family and when you would go to
+Bethesda or when you move to Mayans or I mean all along the whole time, no less with the university, a temple or pan.
+I mean, the list is very long and somehow you prevailed above all that, which is just so startling.
+But another thing I want to just get into briefly, as you know, this has been a shocking counter movement.
+to the vaccines and giving ridiculously, you know, the mRNA as a bad name.
+But in the book, you've kind of had a way to foreshadow this because back in the 1968 pandemic that you obviously experienced, here you talked about that.
+You said, we restricted our movement.
+limiting our contact with others.
+We scrubbed.
+We disinfected.
+I suppose the party encouraged this, but nobody complained about government overreach.
+This was a virus.
+It had no ideology, no political agenda.
+If we weren't careful, it would spread.
+Then we would all suffer.
+These were just the facts.
+That's how viruses work.
+So how come we still don't know that?
+That was 1968 in Hungary and here we are in the United States and we have a huge movement, anti-vaccine, anti-mRNA, COVID vaccines, and it's very worrisome because all the great science is threatened by this miss and disinformation.
+What are your thoughts about that?
+Yes, I heard that, you know, viruses, they love democracy because everybody can do whatever they want, you know.
+Whereas, you know, in other countries, if you give an order, everybody has to have vaccine and then, you know, that's different.
+Yes, I understand that the novelty the people were always against even when x-ray was introduced people thought that all people will look through my clothes and seeing me naked because they take part of the truth and they don't say oh maybe through the flesh is going through and I can see somebody's bone or something you know and and and then they distort and they create a fear and if you make fear then you can control you know like
+Lord of the Fly.
+Somebody you are afraid of and then you can control.
+You can be afraid of the virus or you can be afraid of the vaccine.
+I don't understand exactly.
+Drew said that when they investigated those who are spreading most of these news against the vaccine, they are selling some kind of products.
+benefiting, just like, you know, 100 years ago, those who were afraid that they can see through their clothes, you know, they start to sell x-ray resistant underwear, of course, you know, you know, they made money, made money on the people's fear.
+And I don't know that how to fight it or, you know,
+I think that the honesty when the scientists would say that, listen, we don't know today how it spread.
+This is how we suggest, be afraid, wash everything.
+Oh, no, we know that it is in the air so that, okay, you don't have to wash your clothes when you go out and come back, but, you know, don't go crowded places.
+In politics, it's not working because it is like shiboshi.
+Yesterday, you said something and today, but because we learn, you know, they have to understand this is a science process, constantly correcting.
+In politicians, oh, I know everything, this is how to do, you know, they want to reflect this confidence.
+That's what it is.
+And that's why politics everywhere mixed up with this.
+you know some leaders want to reflect this confidence and they do things you know which helps the virus to spread.
+Right, well I'm glad to get your perspective because obviously when you work so hard throughout your career and then you see the backlash that's unwarranted it's always good to be circumspect of course but to say that this was done in a flash in a pan and it's
+Before wrapping up, you wrote the book before you were awarded the Nobel Prize and this recognition you and Drew
+of course, became, you know, fantastic, so richly deserved.
+But many things occurred, and I wanted to ask you, for example, you did your PhD and your postdoc at the University of Szeged in Hungary, and you went back there, and I think you were celebrated in your university, perhaps the first Nobel laureate, I don't know, I would imagine, perhaps.
+The second.
+The second, oh, okay.
+Okay, but also, you know, you became, you know, the last thing, of course, that was recognized in the book, it was a much different thing.
+It was like the Time 100 recognition.
+But now that you have had, you know, many of these unanticipated awards, of course, what are your thoughts about that?
+I mean, it's wonderful, of course, to get recognized by the university that you trained.
+and the people that you grew up with.
+Has this changed your life or is it really very much the same as it was?
+My life is very same, you know, as it was.
+I am living in the same house.
+We moved in in 1989.
+Okay, last year I got a new car.
+Up until then I never had one, I just had some beat-up cars.
+Last year I purchased my first new car, but that's luxury, you know, when you are 68 years old, you could afford.
+And this is, you know, I tried, you know, it was everything surprise, because 40 years I never get any award, and the first award I get 2021.
+And it was, you know, this, I tried to,
+something to articulate.
+And, you know, more people, life as a scientist is similar to mine, you know, they are immigrant, they are not recognized.
+And, you know, I try to tell them just not to focus on things, you know, like the university is not grateful.
+Who is the university?
+Just they are walls.
+What the administrator would tap your shoulder.
+You have to know that what you are doing is important.
+And if you pushed around, you always have to
+what Shaya said, figure out what you can do.
+Always that.
+Not that what they should do, you know, the agency should give me the money, the boss should, you know, the superior should help me.
+No, I cannot make other people to do.
+I have to figure out what I can do.
+I can write better and better and rewrite, you know, generate more data for a submitted grant application and always, that's why, you know,
+all of these naysayers made me better.
+Because I'm not focused on revenge or anger, but always, okay, how can I be better?
+Now, so that gets me to what you do next.
+I know you're an avid reader.
+I know you read so much about science and your field and broader, of course.
+I take it you still are doing that.
+What's in the next chapter for you?
+Because I can't imagine you're ever going to rest.
+No, no.
+I will be six feet under when I can rest, I realize now.
+But it is just that you are on different fields and you understand
+like nucleotides, how naturally you make RNA, what is the transporter, what is happening in the mitochondria, different things, you know, the iron-sulfur clusters, and then you start to investigate.
+Like three months I was just reading one topic.
+Okay, I didn't even know that.
+And how, you know, in my life I was reading so many things, I realized there are so many diseases.
+I understand what is the reason.
+People don't.
+I went, you know, when I was at Penn to different people, professors about my idea for certain diseases, but I was nobody and nobody listened.
+No, I am somebody I have to be very careful because I say a name of the disease, people will line up here and say, don't talk to Eric, go and do something, help us.
+And so that's what I try to help.
+You know, I think that I understand certain disease, which is so enigmatic and nobody has a clue.
+And maybe I have a solution for that.
+And that's what I try to do now.
+Do you ever go to Penn?
+Do you ever go to
+Do you work in there?
+No, I don't.
+When you are forced to retire and, you know, I was, I knew that they would throw me out because it was 2012.
+Right before Christmas, I was told that get out because you didn't get the 2012.
+Last time I submitted my, an MRNA for stroke therapy, still very valid and good idea.
+But anyway, I knew that I will be pushed out and, but you know, I don't have grudge.
+Good for you.
+I mean, I think it's much easier to be vindictive and you have to
+to have the philosophy that you have, which is not to hold any grudges after all that has basically been done to you by many people along the way.
+And I think we've covered that.
+I know this is a very different interview perhaps than many others that you've had.
+I didn't bring up the teddy bear and I didn't bring up a lot of things that others have brought up because they've already been covered.
+I wanted to get into what you had to endure
+What you had to do to persevere and how it has changed the life science and medicine forever.
+And now, you know, still today, the mRNA package will be improved.
+I mean, we've already learned, for example, the change of the 2-proline substitution that Andrew Ward at my place, along with Jason McClellan and others,
+to make it to better immune response.
+It can be improved with a 6P proline substitution.
+We can beat nature just like you did with the pseudouridine substitution and the nanoparticles will improve and this whole package has got an incredible future.
+But it's thanks to you for not having, if it induced massive inflammation, it never would have been possible.
+Yes, I always said that, you know, hundreds and thousands of scientists I thank, you know, every time I thank them, those people even not with us, just I was reading their papers and it all contributed to this, you know, to this development and learning.
+And so I am not thinking that I was, you know, many, many other people together we did that.
+Well, I am so indebted to you as everyone who understands sciences and it's of course a bigger story than mRNA.
+It's what you endured and how you persevered and against all odds.
+I mean truly against all odds.
+So thank you.
+Did I miss anything that I should have asked you about?
+No, I have to say, you know, the book came out and now I can see in different social media that how
+other scientists get inspired.
+I was reading one who said that she quit doing PhD and she read my book and she cried, she laughed and she went back.
+She realized that there is more to it because so many are expecting some
+doing some work and then there will be some rewards but you know the rewards is this is this is not a you know a short distance this is a marathon you know and you have to see the goals and it will one day and and you might not
+the one that crossed first the finish line but you are helping others and that's what is important and that's what I am glad that I work with this and write this book so that other scientists more can associate because they feel the same way that they are not appreciated, things are not going as expected and
+and then they might be inspired to not to give up and that's what also an important message.
+Well, you know, that's why I love the book because it is so inspirational and it will make people cry.
+It will make people commit to science or appreciate it more than ever.
+I don't know if you saw but I put it as my 10 favorite books
+for 2023 and indeed I could have been the most favorite in many respects.
+So I hope more people listening or watching the video will read the book because it has a lot.
+I'm so glad you wrote it, Katie, because if we only knew you from, you know, papers and Nobel prize, you wouldn't know the true story.
+We wouldn't know, you know, really what your life has been like over these many decades.
+So thank you for that as well.
+And thank you for the, from the,
+life science, the medical community, and, you know, for everyone, for all that you've done to change the future and the current state of medicine.
+Yeah, thank you very much, Erskine, and I might add to the book that the book is published in many different languages.
+It's coming Italian, French, German, Thai, Japanese, Chinese, so scientists all over the world can read their native language and maybe they will be inspired.
+I have no question about that.
+It's a story that should be a movie, so that everyone, the people that won't read the book will hopefully watch the movie.
+Has there already been a plan for that?
+There was, but I don't think that, you know, they have this strike during the summer and I don't know where it stands.
+I wouldn't be surprised if it gets done in the future.
+And I hope they'll consult with you, not just read the book.
+And it'll be interesting who they find, who they get to play you in the movie.
+But thank you so much, Katie.
+What a joy.
+And I look forward to future visits with you.
