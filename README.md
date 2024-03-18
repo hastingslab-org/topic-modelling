@@ -1,4 +1,4 @@
-# Repository accompanying the MIE 2024 submission
+# Repository accompanying MIE 2024 submission
 ## Applying Large Language Models to Interpret Qualitative Interviews in Health Care
 ### Marie Wosny and Janna Hastings
 
